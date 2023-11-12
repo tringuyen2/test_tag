@@ -20,3 +20,5 @@ def decode_escape_sequence(byte_str):
 escaped_bytes = b'\\x3\\x4\\x5'
 decoded_bytes = decode_escape_sequence(escaped_bytes)
 print(decoded_bytes)
+
+print("test")
