@@ -5,9 +5,9 @@ def decode_escape_sequence(byte_str):
     print("test1")
     print("test2")
 
-    print("test3")
+    print("test5")
 
-    print("test4")
+    print("test7")
 
 
     return result
